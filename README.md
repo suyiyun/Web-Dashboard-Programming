@@ -4,7 +4,6 @@
 Using FastAPI
 
 
-
 June 2021
 
 Rutgers
